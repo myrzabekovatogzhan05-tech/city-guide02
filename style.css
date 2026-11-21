@@ -20,10 +20,11 @@ p {
 .places {
   color: #2e7d6b;
 }
-.card {
-  background-color: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 15px;
-  margin: 10px;
+.logo {
+  font-family: "Courier New", monospace;
+  font-weight: 600;
+}
+.hero-label {
+  font-family: "Courier New", monospace;
+  font-weight: 600;
 }
