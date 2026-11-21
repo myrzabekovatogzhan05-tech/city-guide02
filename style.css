@@ -1,5 +1,9 @@
 body {
   background-color: #f4f1ea;
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
 }
 h1,
 h2 {
@@ -12,4 +16,14 @@ p {
 }
 .accent {
   color: #2e7d6b;
+}
+.places {
+  color: #2e7d6b;
+}
+.card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px;
 }
