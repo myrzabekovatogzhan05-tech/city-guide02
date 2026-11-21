@@ -1,0 +1,110 @@
+body {
+  background-color: #f4f1ea;
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+h1,
+h2 {
+  color: #22313f;
+  font-family: "Arial", sans-serif;
+}
+p {
+  color: #555;
+  font-family: "Times New Roman", serif;
+}
+.accent {
+  color: #2e7d6b;
+}
+.places {
+  color: #2e7d6b;
+}
+.logo {
+  font-family: "Courier New", monospace;
+  font-weight: 600;
+}
+.hero-label {
+  font-family: "Courier New", monospace;
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+}
+.site-header {
+  background-color: #2e7d6b;
+  color: #fff;
+  padding: 20px;
+}
+.menu a {
+  color: #fff;
+  margin-right: 15px;
+}
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #6f4e37;
+  color: #ffffff;
+  text-decoration: none;
+}
+.button-outline {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #72dbb2;
+  border: 2px solid #8bc78b;
+  color: black;
+  text-decoration: none;
+}
+.card {
+  width: 300px;
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #6f4e37;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.card-icon {
+  font-size: 48px;
+  color: #2e7d6b;
+  margin-bottom: 10px;
+}
+.card h3 {
+  margin-top: 0;
+  color: #22313f;
+}
+.card-info {
+  font-size: 14px;
+  font-weight: 700;
+  color: #2e7d6b;
+}
+.hero {
+  background-color: rgb(222, 226, 163);
+  color: #ffffff;
+  padding: 100px 20px;
+  text-align: center;
+}
+.places {
+  background-color: #f4f1ea;
+  padding: 50px 20px;
+  text-align: center;
+}
+.tips {
+  background-color: #f4f1ea;
+  padding: 50px 20px;
+  text-align: left;
+}
+.note {
+  background-color: #f4f1ea;
+  padding: 50px 20px;
+  border-left: 5px solid #2e7d6b;
+}
+.site-footer {
+  background-color: #2e7d6b;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
