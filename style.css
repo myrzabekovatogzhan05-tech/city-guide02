@@ -28,3 +28,32 @@ p {
   font-family: "Courier New", monospace;
   font-weight: 600;
 }
+a {
+  text-decoration: none;
+}
+.site-header {
+  background-color: #2e7d6b;
+  color: #fff;
+  padding: 20px;
+}
+.menu a {
+  color: #fff;
+  margin-right: 15px;
+}
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #6f4e37;
+  color: #ffffff;
+  text-decoration: none;
+}
+.button-outline {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #72dbb2;
+  border: 2px solid #rgb(139, 199, 139);
+  color: black;
+  text-decoration: none;
+}
