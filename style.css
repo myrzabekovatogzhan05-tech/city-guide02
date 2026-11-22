@@ -39,6 +39,7 @@ a {
 .menu a {
   color: #fff;
   margin-right: 15px;
+  text-allign: center;
 }
 .button {
   display: inline-block;
@@ -58,7 +59,7 @@ a {
   text-decoration: none;
 }
 .card {
-  width: 300px;
+  width: 1500 px;
   background-color: #ffffff;
   margin: 20px;
   padding: 20px;
@@ -86,6 +87,7 @@ a {
   color: #ffffff;
   padding: 100px 20px;
   text-align: center;
+  border: 10 px solid red;
 }
 .places {
   background-color: #f4f1ea;
